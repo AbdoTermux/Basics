@@ -77,7 +77,7 @@ while loop:
             os.system("apt install wireshark -y") 
             os.system("apt-get install cowsay -y") 
             os.system("apt-get install toilet -y") 
-            os.system("apt-get install curlinstall wgetrc -y")       os.system("apt-get install ruby -y") 
+            os.system("apt-get install curlinstall wgetrc -y") 
             os.system("apt-get install help -y") 
             os.system("apt-get install net-tools -y") 
             os.system("apt-get install w3m -y") 
