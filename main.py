@@ -3,7 +3,7 @@ import os
 def menu():
 
     print("""                               
-=======================================                             Lets start witht the very basics of termux, comments if you have any questions. and text for more awesome stuffs.
+=======================================                    Lets start witht the very basics of termux, comments if you have any questions. and text for more awesome stuffs.
 =======================================
 Abdo Sayed
 =======================================
